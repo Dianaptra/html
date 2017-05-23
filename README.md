@@ -16,14 +16,14 @@
 <div id="menu">
         <ul>
 	<li><a href="account.php" target="_parent" >SCM Functional Areas Consist of :</a></li>
-	</br>
+	<br>
             <li><a href="account.php" target="_parent" >SCM</a></li>
             <li><a href="aboutus.php" class="current" >Build Engineering</a></li>
 			<li><a href="promotion.php" target="_parent">Environment Configuration</a></li>
             <li><a href="gallery.php" target="_parent">Change Control</a></li>
 			<li><a href="gowns.php" target="_parent">Release Management</a></li>  
             <li><a href="cust.php" target="_parent">Deployment</a></li> 
-	    
+	   
 	    
             <li><a href="contact.php" target="_parent">Thank You!!!</a></li>   			
         </ul> 
