@@ -15,13 +15,13 @@
      
 <div id="menu">
         <ul>
-            <li><a href="account.php" target="_parent" >Home</a></li>
-            <li><a href="aboutus.php" class="current" >About Us</a></li>
-			<li><a href="promotion.php" target="_parent">Latest Promotion</a></li>
-            <li><a href="gallery.php" target="_parent">Album Gallery</a></li>
-			<li><a href="gowns.php" target="_parent">Gowns</a></li>  
-            <li><a href="cust.php" target="_parent">Customer File</a></li> 
-            <li><a href="contact.php" target="_parent">Contact Us</a></li>   			
+            <li><a href="account.php" target="_parent" >SCM</a></li>
+            <li><a href="aboutus.php" class="current" >Build Engineering</a></li>
+			<li><a href="promotion.php" target="_parent">Environment Configuration</a></li>
+            <li><a href="gallery.php" target="_parent">A Change Control</a></li>
+			<li><a href="gowns.php" target="_parent">Release Management</a></li>  
+            <li><a href="cust.php" target="_parent">Deployment</a></li> 
+            <li><a href="contact.php" target="_parent">Thank You!!!</a></li>   			
         </ul> 
     </div> <!-- end of menu -->
    <div class="img">
@@ -31,12 +31,7 @@
 </div>
     
     <div id="content">
-    
-    	
-	<h3> SCM Functional Areas 1) SCM 2) Build Engineering 3) Environment Configuration 4) Change Control 5) Release Management 6) Deployment <h3>
-	
-	    
-</h3>
+   
 
 			<p></p>
 			
