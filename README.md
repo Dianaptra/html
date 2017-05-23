@@ -7,7 +7,7 @@
 <body>
 <div id="body_main">
 <div id="top">   	
-			<marquee><h1>WELCOME TO MeAmor Wedding</h1></marquee>    
+			<marquee><h1>WELCOME TO SCM Mini Project</h1></marquee>    
   </div>
      
      
@@ -33,9 +33,9 @@
     <div id="content">
     
     	
-            <h3>Every click of the button and every movement of the shot, reveals all the preciousness and uniqueness of blossomed love of each couple that they process!!We are a full-service wedding and event planning company dedicated to once-in-a-lifetime celebrations. Let we make your vision a reality. Whether you are planning an intimate affair, or an elaborate celebration; you deserve to have a coordinator that will help you every step of the way. We will assist in keeping you organized, and ensure that not even the smallest details get overlooked.
-Our coordinators will advise you in designing, organizing, and executing your event, while making sure your style and personality shines through.
-
+	<h3> SCM Functional Areas 1) SCM 2) Build Engineering 3) Environment Configuration 4) Change Control 5) Release Management 6) Deployment <h3>
+	
+	    
 </h3>
 
 			<p></p>
