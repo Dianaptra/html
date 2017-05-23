@@ -7,7 +7,7 @@
 <body>
 <div id="body_main">
 <div id="top">   	
-			<marquee><h1>WELCOME TO SCM Mini Project</h1></marquee>    
+			<marquee><h1>WELCOME TO SCM Mini Project (Group 4)</h1></marquee>    
   </div>
      
      
@@ -16,7 +16,7 @@
 <div id="menu">
         <ul>
 	<li><a href="account.php" target="_parent" >SCM Functional Areas Consist of :</a></li>
-	
+	</br>
             <li><a href="account.php" target="_parent" >SCM</a></li>
             <li><a href="aboutus.php" class="current" >Build Engineering</a></li>
 			<li><a href="promotion.php" target="_parent">Environment Configuration</a></li>
