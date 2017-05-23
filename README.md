@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+
 <html>
 <head>
-<title>MeAmor Wedding</title>
+<title>SCM Mini Project</title>
 <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
@@ -56,4 +56,4 @@
     </div>
 </div>
 
-</html>
+
