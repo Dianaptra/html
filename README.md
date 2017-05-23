@@ -53,7 +53,7 @@
      <div id="footer_panel">
      
         <div id="footer_right">
-            Copyright © 2015<br />
+            Copyright © 2017<br />
         </div>
         
         <div class="cleaner">&nbsp;</div>
